@@ -1,0 +1,12 @@
+this project based on the game Tic-tac-toe.
+tic Tac Toe is a two-player game.
+the two players take turns putting marks on a 3x3 board.
+player 1 uses the "x" symbol.
+player 2 uses the "o" symbol.
+you can play as many times as you desire.
+
+RULES:
+1) player 1 start the first move.
+2) player 1 and player 2 take turns making moves.
+3) A player marks any of the 3x3 squares with his mark and their aim is to create a straight line horizontally, vertically or diagonally.
+4) the winner player is the one who succeeded to create a straight line.
