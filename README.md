@@ -10,3 +10,7 @@ The rules are simple:
 - you have to gain straight line to win the game.
 - to play another round you will need enter "y" or "Y".
 - most important: have fun :)
+
+Screenshot for example:
+
+![image](https://user-images.githubusercontent.com/96150039/170486830-5b706a8e-1bd5-4050-9dc0-626b3a0ed5ce.png)
