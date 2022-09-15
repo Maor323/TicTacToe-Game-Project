@@ -14,3 +14,5 @@ The rules are simple:
 Screenshot for example:
 
 ![image](https://user-images.githubusercontent.com/96150039/170486830-5b706a8e-1bd5-4050-9dc0-626b3a0ed5ce.png)
+
+https://user-images.githubusercontent.com/96150039/190470072-e950d8ac-356b-400c-8b98-51d53c0a80d5.mp4
